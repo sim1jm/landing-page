@@ -1,1 +1,1 @@
-# landing-page
+I do not know what a landing page is but whatever I did/have done/am doing here sure is one. This was made after completing the CSS Basics and Flexbox course and I will hopefully remember all the properties and attributes.
