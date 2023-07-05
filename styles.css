@@ -12,8 +12,6 @@
     background-color: #1f2937;
 }
 
-/*header*/
-
 .header {
     padding: 16px;
     display: flex;
@@ -44,8 +42,6 @@ a {
     gap: 32px;
     margin-right: auto;
 }
-
-/*hero*/
 
 .hero {
     display: flex;
@@ -97,7 +93,6 @@ a {
     background-color: white;
 }
 
-/*info*/
 .info {
     padding: 50px 130px;
 }
@@ -129,8 +124,6 @@ a {
     max-width: 180px;
 }
 
-/*quote*/
-
 .quote {
     padding: 180px 350px 150px;
     background-color: #e5e7eb;
@@ -152,7 +145,6 @@ a {
     font-size: 24px;
 }
 
-/*call*/
 .call {
     padding: 100px 200px;
     display: flex;
@@ -183,9 +175,19 @@ a {
 .call-box button {
     background-color: #3882f6;
     border: solid white;
-    color: white;
+    color: #f9faf8;
     font-weight: bold;
     font-size: 18px;
     border-radius: 8px;
     padding: 8px 36px;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 18px;
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
